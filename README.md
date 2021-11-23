@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LunaAlphaLyrae
-- 👀 I’m interested in M dwarf flares and RV Tauri variables
+- 👀 I’m interested in active M dwarf stars and RV Tauri variables
 - 🌱 I’m currently learning light curve analyses
 - 💞️ I’m looking to collaborate on Swift/UVOT projects
 - 📫 How to reach me laura.d.vega@nasa.gov
